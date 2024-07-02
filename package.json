@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "npx tsc && node dist/index.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  }
+}

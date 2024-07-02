@@ -1,0 +1,11 @@
+# js
+node_modules
+.env
+output
+dist
+
+# mac
+.DS_Store
+
+# windows
+~*.xlsx
